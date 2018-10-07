@@ -1,0 +1,8 @@
+ls -lhSra
+
+l listing format
+h human-readable
+S sort by file size largerst first
+r reverse
+a dont ignore hidden files
+

@@ -1,0 +1,3 @@
+less kan je naar boven scrollen en is sneller dan more
+
+https://www.tecmint.com/linux-more-command-and-less-command-examples/

@@ -1,0 +1,2 @@
+aliasen wat zijn opgeslagen in  ~/.bashrc wel
+aliasen wat zijn aangemaakt in term niet
