@@ -1,0 +1,8 @@
+oefening control operators shell variable shell embedding
+_________________________________________________________
+
+03 ==> echo today it is `date +%A`, `date +%d` `date +%B` `
+04 PATH=$PATH:~
+echo PATH
+
+08 ls -D1
